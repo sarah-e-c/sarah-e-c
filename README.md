@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sarah-e-c
-- 👀 I’m interested in web development, machine learning, and artifial 
+- 👀 I’m interested in web development, machine learning, and artificial intelligence
 - 🌱 I’m currently learning Python, Flask, and SQLALchemy
 - 💞️ I’m looking to collaborate on everything!
 - 📫 You can reach me at sarah.beth.crowder@gmail.com!
